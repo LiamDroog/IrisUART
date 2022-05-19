@@ -1,0 +1,3 @@
+../Core/Inc/debug.h:10:20:DBG_PUT	8	static
+../Core/Src/housekeeping.c:14:23:get_housekeeping	24	static
+../Core/Src/housekeeping.c:27:6:decode_hk_packet	96	static

@@ -1,0 +1,5 @@
+../Core/Src/nand_m79a.c:40:17:NAND_Init	16	static
+../Core/Src/nand_m79a.c:193:17:__map_logical_addr	12	static
+../Core/Src/nand_m79a.c:77:17:NAND_Read	48	static
+../Core/Src/nand_m79a.c:134:17:NAND_Write	48	static
+../Core/Src/nand_m79a.c:204:17:__run_POST	0	static
